@@ -1,0 +1,6 @@
+I think that python coding should be taught again.
+This is my favorite number,070569
+Is there any recording for cohort 4?__
+This is a new line added through appending.
+67890
+Appending is fun!
